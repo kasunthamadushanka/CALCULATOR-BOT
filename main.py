@@ -12,7 +12,7 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a 𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐁𝐎𝐓. Send me /calculator for open the Calculator.
+Hello {}, I am a 𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐁𝐎𝐓. Hit /calculator for open the Calculator.
 
 <b>Developed by :- @kasu_bro 🇱🇰</b>
 """
