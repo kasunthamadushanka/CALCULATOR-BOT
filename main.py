@@ -23,7 +23,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('📣 Join Updates Channel 📣', url='https://telegram.me/epusthakalaya_bots')
         ]]
     )
-CALCULATE_TEXT = "𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐁𝐎𝐓\n\n\Powered by :- 🔰@epusthakalaya_bots™🔰"
+CALCULATE_TEXT ="\n\n\ Powered by :- 🔰@epusthakalaya_bots™🔰"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),
