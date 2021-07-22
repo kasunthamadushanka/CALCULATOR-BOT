@@ -1,4 +1,4 @@
-# Calculator-Bot
+# 𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐁𝐎𝐓
 
 A calculator telegram bot.
 
@@ -20,7 +20,7 @@ License -> https://github.com/FayasNoushad/Calculator-Bot/blob/main/LICENSE
 <br>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Calculator-Bot/tree/main">
+  <a href="https://heroku.com/deploy?template=kasunthamadushanka/CALCULATOR-BOT/tree/main">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -55,3 +55,4 @@ python3 main.py
 
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
+ -[Repo](https://github.com/FayasNoushad/Calculator-Bot)
