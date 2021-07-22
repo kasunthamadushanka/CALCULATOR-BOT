@@ -12,16 +12,18 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a simple calculator telegram bot. Send me /calculator.
+Hello {}, I am a 𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐁𝐎𝐓. Send me /calculator for open the Calculator.
 
-Made by @FayasNoushad
+Developed by :- @kasu_bro
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton('📣 Join Updates Channel 📣', url='https://telegram.me/epusthakalaya_bots')
+        ],[
+        InlineKeyboardButton('📣 Join Updates Channel 📣', url='https://telegram.me/epusthakalaya_bots')
         ]]
     )
-CALCULATE_TEXT = "Made by @FayasNoushad"
+CALCULATE_TEXT = "𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐁𝐎𝐓\n\n\Powered by :- 🔰@epusthakalaya_bots™🔰"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),
