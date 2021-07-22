@@ -1,19 +1,12 @@
 # 𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐁𝐎𝐓
 
-A calculator telegram bot.
+## A simple calculator bot.
 
----
+<p align="center">
+  <img src="https://telegra.ph/file/b25b885418d5abbe80a71.jpg">
+</p>
 
-```
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Calculator-Bot/blob/main/LICENSE
-```
-
----
-
-## Deploy 
+## Deploy 🏃‍♂️
 
 <details>
   <summary><b>Deploy on Heroku</b></summary>
@@ -25,6 +18,17 @@ License -> https://github.com/FayasNoushad/Calculator-Bot/blob/main/LICENSE
   </a>
 </p>
 
+  
+---
+
+```
+Made with Python3
+(C) @FayasNoushad
+Copyright permission under MIT License
+License -> https://github.com/FayasNoushad/Calculator-Bot/blob/main/LICENSE
+```
+
+---  
 
 </details>
 
@@ -33,7 +37,7 @@ License -> https://github.com/FayasNoushad/Calculator-Bot/blob/main/LICENSE
 <br>
 
 ```sh
-git clone https://github.com/FayasNoushad/Calculator-Bot/tree/main
+git clone https://github.com/kasunthamadushanka/CALCULATOR-BOT/tree/main
 cd Calculator-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -56,4 +60,5 @@ python3 main.py
 
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
- -[Repo](https://github.com/FayasNoushad/Calculator-Bot)
+- [Repo](https://github.com/FayasNoushad/Calculator-Bot)
+- [ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro) - Dev
