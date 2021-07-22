@@ -14,7 +14,7 @@ FayasNoushad = Client(
 START_TEXT = """
 Hello {}, I am a 𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐁𝐎𝐓. Send me /calculator for open the Calculator.
 
-Developed by :- @kasu_bro
+<b>Developed by :- @kasu_bro 🇱🇰</b>
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
