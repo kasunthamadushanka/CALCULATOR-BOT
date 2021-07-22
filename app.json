@@ -1,6 +1,7 @@
 {
-    "name": "Calculator-Bot",
-    "description": "A telegram calculator bot",
+    "Name": "𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐁𝐎𝐓",
+    "Logo": "https://telegra.ph/file/b25b885418d5abbe80a71.jpg",
+    "Description": "A simple telegram calculator bot",
     "repository": "https://github.com/kasunthamadushanka/CALCULATOR-BOT",
     "keywords": [
         "calculator",
