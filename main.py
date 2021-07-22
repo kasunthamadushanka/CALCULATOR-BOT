@@ -1,4 +1,4 @@
-# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
+***************************# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
 
 import os
 from pyrogram import Client, filters
@@ -20,7 +20,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('📣 Join Updates Channel 📣', url='https://telegram.me/epusthakalaya_bots')
         ],[
-        InlineKeyboardButton('🌟 Review Us 🌟', url='https://telegram.me/epusthakalaya_bots')
+        InlineKeyboardButton('🌟 Review Us 🌟', url='https://t.me/tlgrmcbot?start=tgm_calc_bot-review')
         ]]
     )
 CALCULATE_TEXT = "Powered by 🔰@epusthakalaya_bots™🔰"
